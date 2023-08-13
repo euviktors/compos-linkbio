@@ -7,7 +7,7 @@
 /*Definções raizes*/
 :root {
   --text-color: rgb(0, 0, 0); /*altera as cores dos textos*/
-  --bg-url: url(/images/bg-desktop.jpg); /*altera o background*/
+  --bg-url: url(/bg-desktop.jpg); /*altera o background*/
   --stroke-color: #000000;
   --surface-color: rgba(22, 21, 21, 0.062);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
